@@ -288,6 +288,7 @@ Media Quieies
     }
     .playerWraper{
         width: 90%;
+        margin-bottom: 20px;
     }
     .playerWraper img{
         width: 100%;
